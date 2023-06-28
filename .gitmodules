@@ -1,16 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ss3sim"]
 	path = ss3sim
 	url = https://github.com/ss3sim/ss3sim
-	shallow = true
-	registered = true
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
-	shallow = true
 	branch = main
 	registered = false
