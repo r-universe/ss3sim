@@ -5,7 +5,7 @@
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
-	branch = main
+	branch = 869476d
 	registered = false
 [submodule "ss3sim"]
 	path = ss3sim
